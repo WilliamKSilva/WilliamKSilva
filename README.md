@@ -4,6 +4,7 @@ Meu nome é William, tenho 19 anos e sou estudante de Engenharia da Computação
 ## O que estou estudando atualmente :computer: 
 No momento tenho me dedicado a estudar tecnologias voltadas ao desenvolvimento full stack, interagindo e trabalhando com:   
 - JavaScript 
+- TypeScript
 - HTML5 
 - CSS3 
 - React Native
