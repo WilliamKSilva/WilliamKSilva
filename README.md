@@ -6,6 +6,7 @@ No momento tenho me dedicado a estudar tecnologias voltadas ao desenvolvimento f
 - JavaScript 
 - HTML5 
 - CSS3 
+- React Native
 - ReactJS 
 - NodeJS 
 
