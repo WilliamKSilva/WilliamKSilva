@@ -1,4 +1,4 @@
-##  Olá, :smiley:
+##  Olá, 
 Meu nome é William, tenho 19 anos e sou estudante de Engenharia da Computação! :mortar_board: 
 
 ## O que estou estudando atualmente :computer: 
