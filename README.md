@@ -5,11 +5,11 @@ Meu nome é William, tenho 19 anos e sou estudante de Engenharia da Computação
 No momento tenho me dedicado a estudar tecnologias voltadas ao desenvolvimento full stack, interagindo e trabalhando com:   
 - JavaScript 
 - TypeScript
-- HTML5 
-- CSS3 
-- React Native
+- React Native 
 - ReactJS 
-- NodeJS 
+- NodeJS
+- HTML5
+- CSS3
 
 ## Foco principal :rocket: 
 Meu principal foco no momento é estudar e colocar em prática o conhecimento adquirido em projetos e trabalhos, para que assim eu consiga ganhar mais experiência e me especializar cada vez mais na área de desenvolvimento, aprendendo novas tecnologias e me aperfeiçoando nas que ja estou estudando. 
