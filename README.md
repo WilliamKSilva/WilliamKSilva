@@ -1,4 +1,4 @@
-##  Olá, :wave:
+##  Olá, 
 Meu nome é William, tenho 19 anos, sou estudante de Engenharia da Computação e desenvolvedor Front-end!
 
 ## O que estou estudando atualmente :computer: 
