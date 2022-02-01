@@ -14,6 +14,8 @@ No momento tenho estudado e trabalhado com:
 ![alt text](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 
+<img src="![212693](https://user-images.githubusercontent.com/75429175/151974726-82f36037-d37e-49e3-8a25-8b2e5c9c0b7b.gif)" align="right" width=150 />
+
 
 ![alt text](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ![alt text](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
