@@ -12,7 +12,7 @@ No momento tenho estudado e trabalhado com:
 <img src="https://user-images.githubusercontent.com/75429175/151977419-33b9e79a-4287-4772-a4d6-9d1c445c454f.png" alt="" width="250" align="right"/>
 
 <img src="https://github.com/github/explore/blob/main/topics/react/react.png?raw=true" alt="" height="40" /> &nbsp;
-<img src="https://toppng.com/uploads/preview/react-native-svg-transformer-allows-you-import-svg-aperture-science-innovators-logo-11562851994zqcpwozsvy.png" alt="" height="40" /> &nbsp;
+<img src="https://cdn.icon-icons.com/icons2/2389/PNG/512/expo_logo_icon_145293.png" alt="" height="40" /> &nbsp;
 <img src="https://nx.dev/documentation/shared/jest-logo.png" alt="" height="35" /> &nbsp;
 
 <img src="https://github.com/github/explore/blob/main/topics/sass/sass.png?raw=true" alt="" height="35" /> &nbsp;
@@ -21,7 +21,7 @@ No momento tenho estudado e trabalhado com:
 
 ## Outras tecnologias que costumo interagir: 
 
-<img height="40" src="http://assets.stickpng.com/images/5847fb26cef1014c0b5e48d4.png" /> &nbsp;
+<img height="40" src="https://landgraf.dev/en/wp-content/uploads/sites/3/2020/07/GraphQL-logo-horizontal.png" /> &nbsp;
 <img height="40" title="NodeJS" alt="NodeJS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"> &nbsp;
 
 ## Foco principal :rocket: 
