@@ -2,7 +2,7 @@
 Meu nome é William, tenho 19 anos, sou estudante de Engenharia da Computação e desenvolvedor Front-end!
 
 ## O que estou estudando atualmente :computer: 
-No momento tenho me dedicado a estudar tecnologias voltadas ao desenvolvimento frontend, interagindo e trabalhando com:   
+No momento tenho estudado e trabalhado com:   
 
 ![alt text](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![alt text](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) 
