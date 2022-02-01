@@ -29,7 +29,7 @@ No momento tenho estudado e trabalhado com:
 
 ## Foco principal :rocket: 
 Meu principal foco no momento é poder contribuir em novos projetos para conseguir fixar todos os meus conhecimentos prévios adquiridos e tambem para conseguir
-me especializar cada vez mais nas tecnologias que gosto e amo estudar/trabalhar cada vez mais.
+me especializar cada vez mais nas tecnologias que gosto e amo estudar/trabalhar cada vez mais.<br />
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)][1]
 
 
