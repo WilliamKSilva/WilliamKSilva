@@ -8,7 +8,7 @@ No momento tenho estudado e trabalhado com:
 ![alt text](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) 
 ![alt text](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-<img src="https://user-images.githubusercontent.com/75429175/151977419-33b9e79a-4287-4772-a4d6-9d1c445c454f.png" alt="" width="200" align="right"/>
+<img src="https://user-images.githubusercontent.com/75429175/151977419-33b9e79a-4287-4772-a4d6-9d1c445c454f.png" alt="" width="250" align="right"/>
 
 ![alt text](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
