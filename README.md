@@ -12,7 +12,7 @@ No momento tenho estudado e trabalhado com:
 <img src="https://user-images.githubusercontent.com/75429175/151977419-33b9e79a-4287-4772-a4d6-9d1c445c454f.png" alt="" width="250" align="right"/>
 
 <img src="https://github.com/github/explore/blob/main/topics/react/react.png?raw=true" alt="" height="40" /> &nbsp;
-<img src="https://cdn.icon-icons.com/icons2/2389/PNG/512/expo_logo_icon_145293.png" alt="" height="40" /> &nbsp;
+<img src="https://fei.edu.br/~gwachs/disciplinas/CC4670/slides/Aula05/slides/images/react_native_logo.png" alt="" height="40" /> &nbsp;
 <img src="https://nx.dev/documentation/shared/jest-logo.png" alt="" height="35" /> &nbsp;
 
 <img src="https://github.com/github/explore/blob/main/topics/sass/sass.png?raw=true" alt="" height="35" /> &nbsp;
