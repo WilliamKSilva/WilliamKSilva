@@ -14,7 +14,7 @@ No momento tenho estudado e trabalhado com:
 ![alt text](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 
-<img src="https://gifs.alphacoders.com/gifs/view/212693" align="right" width=150 />
+<img src="https://gifs.alphacoders.com/gifs/view/212693" alt="" align="right" width=150 />
 
 
 ![alt text](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
