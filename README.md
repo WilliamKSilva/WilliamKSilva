@@ -15,12 +15,12 @@ No momento tenho estudado e trabalhado com:
 <img src="https://toppng.com/uploads/preview/react-native-svg-transformer-allows-you-import-svg-aperture-science-innovators-logo-11562851994zqcpwozsvy.png" alt="" height="26" /> &nbsp;
 
 <img src="https://github.com/github/explore/blob/main/topics/sass/sass.png?raw=true" alt="" height="35" /> &nbsp;
-<img src="https://avatars.githubusercontent.com/u/20658825?s=200&v=4" alt="" height="35" /> &nbsp;
-<img src="https://www.pngfind.com/pngs/m/92-927312_jest-testing-hd-png-download.png" alt="" height="35" /> &nbsp;
+<img src="https://originapps.io/wp-content/uploads/2019/03/React-Native.png" alt="" height="35" /> &nbsp;
+<img src="https://digital.ai/sites/default/files/pictures/styles/maxwidth_300/public/pt_logos/jest.png?itok=S1-XkMKk" alt="" height="35" /> &nbsp;
 
 ## Outras tecnologias que costumo interagir: 
 
-<img height="35" src="https://www.pngfind.com/pngs/m/62-627254_i-wanted-to-give-graphql-a-shot-for.png" /> &nbsp;
+<img height="35" src="https://graphql.org/img/og-image.png" /> &nbsp;
 <img height="35" title="NodeJS" alt="NodeJS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"> &nbsp;
 
 ## Foco principal :rocket: 
