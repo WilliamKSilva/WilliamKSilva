@@ -21,7 +21,7 @@ No momento tenho estudado e trabalhado com:
 
 
 
-## Outras tecnologias que costumo interagir: <img src="https://thumbs.gfycat.com/HarmoniousDependentCrocodile-max-1mb.gif" alt="" align="right" wight=20 />
+## Outras tecnologias que costumo interagir: 
 
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
