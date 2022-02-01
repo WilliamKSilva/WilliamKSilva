@@ -28,9 +28,9 @@ No momento tenho me dedicado a estudar tecnologias voltadas ao desenvolvimento f
 ## Foco principal :rocket: 
 Meu principal foco no momento é poder contribuir em novos projetos para conseguir fixar todos os meus conhecimentos prévios adquiridos e tambem para conseguir
 me especializar cada vez mais nas tecnologias que gosto e amo estudar/trabalhar cada vez mais.
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)][1]                              
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)][1]
 
-
+![11217689901f6ff0d5699b4ef9d42527](https://user-images.githubusercontent.com/75429175/151971503-1488e664-6aee-4991-a5fd-a4266fc8217c.jpg)
 
 
 [1]: https://www.linkedin.com/in/williamkelvinsilva/
