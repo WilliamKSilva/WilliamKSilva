@@ -12,14 +12,14 @@ No momento tenho estudado e trabalhado com:
 <img src="https://user-images.githubusercontent.com/75429175/151977419-33b9e79a-4287-4772-a4d6-9d1c445c454f.png" alt="" width="250" align="right"/>
 
 <img src="https://github.com/github/explore/blob/main/topics/react/react.png?raw=true" alt="" height="26" /> &nbsp;
-<img src="https://github.com/github/explore/blob/main/topics/nextjs/nextjs.png?raw=true" alt="" height="26" /> &nbsp;
+<img src="https://cdn.icon-icons.com/icons2/2389/PNG/512/expo_logo_icon_145293.png" alt="" height="26" /> &nbsp;
 
 <img src="https://github.com/github/explore/blob/main/topics/sass/sass.png?raw=true" alt="" height="26" /> &nbsp;
-<img src="https://github.com/github/explore/blob/main/topics/styled-components/styled-components.png?raw=true" alt="" height="26" /> &nbsp;
+<img src="https://avatars.githubusercontent.com/u/20658825?s=200&v=4" alt="" height="26" /> &nbsp;
 
 ## Outras tecnologias que costumo interagir: 
 
-<img height="26" src="https://github.com/github/explore/blob/main/topics/nextjs/nextjs.png?raw=true" /> &nbsp;
+<img height="26" src="https://spng.pngfind.com/pngs/s/62-627254_i-wanted-to-give-graphql-a-shot-for.png" /> &nbsp;
 <img height="26" title="NodeJS" alt="NodeJS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"> &nbsp;
 
 ## Foco principal :rocket: 
