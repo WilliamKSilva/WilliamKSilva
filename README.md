@@ -16,7 +16,7 @@ No momento tenho estudado e trabalhado com:
 <img src="https://nx.dev/documentation/shared/jest-logo.png" alt="" height="35" /> &nbsp;
 
 <img src="https://github.com/github/explore/blob/main/topics/sass/sass.png?raw=true" alt="" height="35" /> &nbsp;
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt370sQ-phZ3eodeRVwJwxaVC4rGm1B8JcJvKokR32apdMa2nAICOaymd76EC_aAB8jg0&usqp=CAU" alt="" height="35" /> &nbsp;
+<img src="https://avatars.githubusercontent.com/u/20658825?s=200&v=4" alt="" height="35" /> &nbsp;
 
 
 ## Outras tecnologias que costumo interagir: 
