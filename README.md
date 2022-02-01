@@ -16,13 +16,13 @@ No momento tenho estudado e trabalhado com:
 <img src="https://nx.dev/documentation/shared/jest-logo.png" alt="" height="35" /> &nbsp;
 
 <img src="https://github.com/github/explore/blob/main/topics/sass/sass.png?raw=true" alt="" height="35" /> &nbsp;
-<img src="https://originapps.io/wp-content/uploads/2019/03/React-Native.png" alt="" height="35" /> &nbsp;
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt370sQ-phZ3eodeRVwJwxaVC4rGm1B8JcJvKokR32apdMa2nAICOaymd76EC_aAB8jg0&usqp=CAU" alt="" height="35" /> &nbsp;
 
 
 ## Outras tecnologias que costumo interagir: 
 
-<img height="35" src="https://spng.pngfind.com/pngs/s/62-627254_i-wanted-to-give-graphql-a-shot-for.png" /> &nbsp;
-<img height="35" title="NodeJS" alt="NodeJS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"> &nbsp;
+<img height="40" src="http://assets.stickpng.com/images/5847fb26cef1014c0b5e48d4.png" /> &nbsp;
+<img height="40" title="NodeJS" alt="NodeJS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"> &nbsp;
 
 ## Foco principal :rocket: 
 Meu principal foco no momento é poder contribuir em novos projetos para conseguir fixar todos os meus conhecimentos prévios adquiridos e tambem para conseguir
