@@ -5,11 +5,11 @@ Meu nome é William, tenho 19 anos, sou estudante de Engenharia da Computação 
 No momento tenho estudado e trabalhado com:   
 
 <img height="35" title="Typescript" alt="Typescript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"> &nbsp;
-<img height="35" title="Javascript" alt="Javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> &nbsp; 
+<img src="https://user-images.githubusercontent.com/75429175/152281985-2fd2c220-d98a-4e42-88ab-b62add9a59d1.gif" alt="" width="270" align="right"/>
+
+<img height="35" title="Javascript" alt="Javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> &nbsp;
 <img height="35" title="HTML" alt="HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> &nbsp;
 <img height="35" title="CSS" alt="CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> &nbsp;
-
-<img src="https://user-images.githubusercontent.com/75429175/151977419-33b9e79a-4287-4772-a4d6-9d1c445c454f.png" alt="" width="250" align="right"/>
 
 <img src="https://github.com/github/explore/blob/main/topics/react/react.png?raw=true" alt="" height="40" /> &nbsp;
 <img src="https://fei.edu.br/~gwachs/disciplinas/CC4670/slides/Aula05/slides/images/react_native_logo.png" alt="" height="40" /> &nbsp;
