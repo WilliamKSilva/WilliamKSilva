@@ -13,6 +13,7 @@ No momento tenho estudado e trabalhado com:
 
 <img src="https://github.com/github/explore/blob/main/topics/react/react.png?raw=true" alt="" height="40" /> &nbsp;
 <img src="https://fei.edu.br/~gwachs/disciplinas/CC4670/slides/Aula05/slides/images/react_native_logo.png" alt="" height="40" /> &nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/800px-Nextjs-logo.svg.png" alt="" height="40" /> &nbsp;
 <img src="https://nx.dev/documentation/shared/jest-logo.png" alt="" height="35" /> &nbsp;
 
 <img src="https://github.com/github/explore/blob/main/topics/sass/sass.png?raw=true" alt="" height="35" /> &nbsp;
