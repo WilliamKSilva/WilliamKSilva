@@ -4,9 +4,9 @@ Meu nome é William, tenho 19 anos, sou estudante de Engenharia da Computação 
 ## O que estou estudando atualmente :computer: 
 No momento tenho estudado e trabalhado com:   
 
-<img height="35" title="Typescript" alt="Typescript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"> &nbsp;
 <img src="https://user-images.githubusercontent.com/75429175/152281985-2fd2c220-d98a-4e42-88ab-b62add9a59d1.gif" alt="" width="270" align="right"/>
 
+<img height="35" title="Typescript" alt="Typescript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"> &nbsp;
 <img height="35" title="Javascript" alt="Javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> &nbsp;
 <img height="35" title="HTML" alt="HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> &nbsp;
 <img height="35" title="CSS" alt="CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> &nbsp;
