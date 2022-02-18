@@ -19,11 +19,12 @@ No momento tenho estudado e trabalhado com:
 <img src="https://github.com/github/explore/blob/main/topics/sass/sass.png?raw=true" alt="" height="35" /> &nbsp;
 <img src="https://avatars.githubusercontent.com/u/20658825?s=200&v=4" alt="" height="35" /> &nbsp;
 
+<img height="35" title="NodeJS" alt="NodeJS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"> &nbsp;
+
 
 ## Outras tecnologias que costumo interagir: 
 
 <img height="40" src="https://landgraf.dev/en/wp-content/uploads/sites/3/2020/07/GraphQL-logo-horizontal.png" /> &nbsp;
-<img height="40" title="NodeJS" alt="NodeJS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"> &nbsp;
 
 ## Foco principal :rocket: 
 Meu principal foco no momento é poder contribuir em novos projetos para conseguir fixar todos os meus conhecimentos prévios adquiridos e tambem para conseguir
