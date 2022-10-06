@@ -1,5 +1,5 @@
 ##  Olá, 
-Meu nome é William, tenho 19 anos, sou estudante de Engenharia da Computação e desenvolvedor Front-end!
+Meu nome é William, tenho 19 anos, sou estudante de Engenharia da Computação e desenvolvedor FullStack!
 
 ## O que estou estudando atualmente :computer: 
 No momento tenho estudado e trabalhado com:   
