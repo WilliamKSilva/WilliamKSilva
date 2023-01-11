@@ -1,5 +1,5 @@
 ##  Olá, 
-Meu nome é William, tenho 20 anos, sou estudante de Engenharia da Computação e desenvolvedor FullStack!
+Meu nome é William, tenho 20 anos, sou estudante de Análise e Desenvolvimento de Sistemas e desenvolvedor FullStack!
 
 ## O que estou estudando atualmente :computer: 
 No momento tenho estudado e trabalhado com:   
