@@ -1,15 +1,14 @@
 ##  Olá, 
-Meu nome é William, tenho 21 anos e sou estudante de Engenharia da Computação!
+Meu nome é William, tenho 21 anos!
 
 ## Ultimamente tenho trabalhado com:
-- C
-- C++
-- Golang
-- TypeScript 
+- TypeScript
+- Python
+- Golang 
 
 ## Ferramentas do dia a dia:
-- OS: Fedora Linux
-- Editor de texto: Neovim
+- OS: PopOS
+- Editor de texto: VSCode
 
 ## Contatos:
 - Linkedin: https://www.linkedin.com/in/williamkelvinsilva/
